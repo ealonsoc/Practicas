@@ -20,13 +20,13 @@
     'depends':['base'],
     
     'data':[
-        
-        
+        'security/academy_security.xml',
+        'security/ir.model.access.csv',
     ],
     'license':'OPL-1',
     
     'demo':[
-        
+        'demo/academy_demo.xml'
     ],
     
 }
